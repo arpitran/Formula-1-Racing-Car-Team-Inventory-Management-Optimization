@@ -2,4 +2,4 @@
 Formula 1 Racing Car Team Inventory Management Optimization
 
 
-![alt text](https://github.com/arpitran/Formula-1-Racing-Car-Team-Inventory-Management-Optimization/img.png)
+![alt text](https://github.com/arpitran/Formula-1-Racing-Car-Team-Inventory-Management-Optimization/blob/master/image.png)
